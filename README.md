@@ -1,6 +1,6 @@
-# springcloud-microservice
+# Springcloud-microservice project.
 
-##Requirements
+## Requirements
 - Java JDK 11
 - Docker Desktop
 - IDE(Intellij)
